@@ -15,7 +15,7 @@ programa
             leia(v_hr)
             escreva("Quantidade de horas trabalhada de " +(nome)+": " )
             leia(q_hr)
-            pag=v_hr*q_hr
+            pag=(v_hr*q_hr)*20
             escreva("O valor do pagamento de " +(nome)+" é: " +(pag))
 	}
 }
@@ -24,7 +24,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 213; 
+ * @POSICAO-CURSOR = 592; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
